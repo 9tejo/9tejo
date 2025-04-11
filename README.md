@@ -12,7 +12,7 @@
 <br />
  ‿̩͙‿ ༺ ♰ ༻ ‿̩͙‿ 
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/1321638908370485258/1355896341359886479/obraz_2025-03-30_152735179.png?ex=67ea985f&is=67e946df&hm=3cbef206a24dae089af977cdbb125d7d83643776e8f59839743f66540fe4b8ed&=&format=webp&quality=lossless">
+  <img src="https://cdn.discordapp.com/attachments/1321638908370485258/1355896341359886479/obraz_2025-03-30_152735179.png?ex=67fa6a5f&is=67f918df&hm=5ef4ac62545a59ac5bef11f95245aa5fc4ec606eca4151279b6edccf0f81cf34&">
 </div>
 
 
